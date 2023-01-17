@@ -1,6 +1,6 @@
 ## ***Tutorial-Git-GitHub***
 
-### ***Informação Importante***
+### INFORMAÇÃO IMPORTANTE
 
 ***OBS: ALGUMAS ANOTAÇÕES FORAM RETIRADAS DO CURSO DE GIT E GITHUB DO [@Matheus Battisti](https://github.com/matheusbattisti)***
 
