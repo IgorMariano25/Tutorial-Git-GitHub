@@ -1,6 +1,6 @@
 ## ***Tutorial-Git-GitHub***
 
-### INFORMAÇÃO IMPORTANTE
+### 1 - INFORMAÇÃO IMPORTANTE
 
 ***OBS: ALGUMAS ANOTAÇÕES FORAM RETIRADAS DO CURSO DE GIT E GITHUB DO [@Matheus Battisti](https://github.com/matheusbattisti)***
 
@@ -8,7 +8,7 @@ Nesse repositório, eu vou ensinar alguns comandos e funcionalidades do Git e Gi
 
 Todos os comando presentes nesse repositório forma usados e testado no repositório [GitTeste](https://github.com/IgorMariano25/GitTeste)
 
-### LISTA DE CONTEÚDOS ORDENADA 
+### 2 - LISTA DE CONTEÚDOS ORDENADA 
 A marcação :white_check_mark: indica que o tópico já foi concluído\
 A marcação :o: indica que o tópico ainda não foi iniciado\
 1 - [ :white_check_mark: ] Introdução e Instação das dependências do Git;\
