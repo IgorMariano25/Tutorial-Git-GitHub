@@ -9,9 +9,8 @@ Nesse repositório, eu vou ensinar alguns comandos e funcionalidades do Git e Gi
 Todos os comando presentes nesse repositório forma usados e testado no repositório [GitTeste](https://github.com/IgorMariano25/GitTeste)
 
 ### LISTA DE CONTEÚDOS ORDENADA 
-A marcação :white_check_mark: indica que a lista já foi concluída\
-A marcação :o: indica que a lista ainda não foi iniciada\
-
+A marcação :white_check_mark: indica que o tópico já foi concluído\
+A marcação :o: indica que o tópico ainda não foi iniciado\
 1 - [ :white_check_mark: ] Introdução e Instação das dependências do Git;\
 2 - [ :white_check_mark:] Git Fundamental;\
 3 - [ :o: ] Trabalhando com Branchs;\
