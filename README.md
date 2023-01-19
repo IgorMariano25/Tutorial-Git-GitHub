@@ -13,9 +13,9 @@ A marcação :white_check_mark: indica que o tópico já foi concluído\
 A marcação :o: indica que o tópico ainda não foi iniciado
 
 #### 1 - [ :white_check_mark: ] Introdução e Instação das dependências do Git;
-  - 1.1. - [ :white_check_mark: ] Instalando Git no Windows\
-  - 1.2. - [ :white_check_mark: ] Instalando VSCode no Windows\
-  - 1.3. - [ :white_check_mark: ] O que é controle de versão  ?\
+  - 1.1. - [ :white_check_mark: ] Instalando Git no Windows
+  - 1.2. - [ :white_check_mark: ] Instalando VSCode no Windows
+  - 1.3. - [ :white_check_mark: ] O que é controle de versão  ?
   - 1.4. - [ :white_check_mark: ] O que é GIT ?
   
 2 - [ :white_check_mark:] Git Fundamental;\
