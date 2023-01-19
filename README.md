@@ -59,7 +59,18 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 <p> 3.12 -  [ :o: ] Conclusão da Seção </p>
 </details>
 
-<details><summary> 4 - [ :o: ] Compartilhamento e Atualização de Repositórios; </summary></details>
+<details><summary> 4 - [ :o: ] Compartilhamento e Atualização de Repositórios; </summary> <br/>
+ 
+<p> 4.1 - [ :o: ] Introdução da seção </p>
+<p> 4.2 - [ :o: ] Encontrando branches </p> 
+<p> 4.3 - [ :o: ] Recebendo atualizações </p>
+<p> 4.4 - [ :o: ] Enviando alterações </p>
+<p> 4.5 - [ :o: ] Utilizando o remote </p> 
+<p> 4.6 - [ :o: ] Conhecendo os submodules </p>
+<p> 4.7 - [ :o: ] Atualizando os submodules </p>
+<p> 4.8 - [ :o: ] Conclusão da Seção </p> 
+ 
+</details>
 <details><summary> 5 - [ :o: ] Análise e Inspeção de Repositórios; </summary></details>
 <details><summary> 6 - [ :o: ] Administração de Repositório; </summary></details>
 <details><summary> 7 - [ :o: ] Melhorando os commits do projeto; </summary></details>
