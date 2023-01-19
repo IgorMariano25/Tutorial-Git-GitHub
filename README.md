@@ -10,6 +10,7 @@ Todos os comando presentes nesse repositório forma usados e testado no reposit�
 
 ### 2 - LISTA DE CONTEÚDOS ORDENADA 
 A marcação :white_check_mark: indica que o tópico já foi concluído\
+A marcação :hourglass_flowing_sand: indica que o tópico está em andamento\
 A marcação :o: indica que o tópico ainda não foi iniciado
 
 <details><summary> 1 - [ :white_check_mark: ] Introdução e Instação das dependências do Git;</summary> <br/>
