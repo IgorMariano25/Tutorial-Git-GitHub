@@ -115,4 +115,17 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 
 </details>
 
-<details><summary> 9 - [ :o: ] Markdown: Conceitos Principais </summary></details>
+<details><summary> 9 - [ :o: ] Markdown: Conceitos Principais </summary> <br/>
+
+ <p> 8.1 - [ :o: ] Introdução da seção </p>
+ <p> 8.2 - [ :o: ] O que é Markdown ? </p>
+ <p> 8.3 - [ :o: ] Criando títulos </p>
+ <p> 8.4 - [ :o: ] Ênfase nos textos </p>
+ <p> 8.5 - [ :o: ] Listas com Markdown </p>
+ <p> 8.6 - [ :o: ] Inserindo imagens </p>
+ <p> 8.7 - [ :o: ] Links em Markdown </p>
+ <p> 8.8 - [ :o: ] Inserindo código fonte </p>
+ <p> 8.9 - [ :o: ] Lista de tarefas do projeto </p>
+ <p> 8.10 - [ :o: ] Conclusão da Seção </p> 
+
+</details>
