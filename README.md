@@ -71,7 +71,17 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 <p> 4.8 - [ :o: ] Conclusão da Seção </p> 
  
 </details>
-<details><summary> 5 - [ :o: ] Análise e Inspeção de Repositórios; </summary></details>
+
+<details><summary> 5 - [ :o: ] Análise e Inspeção de Repositórios; </summary> <br/>
+ 
+<p> 5.1 - [ :o: ] Introdução da seção </p>
+<p> 5.2 - [ :o: ] Exibindo detalhes de branches e tags </p> 
+<p> 5.3 - [ :o: ] Verificando diferenças </p>
+<p> 5.4 - [ :o: ] Log de atividades resumido </p>
+<p> 5.5 - [ :o: ] Conclusão da Seção </p> 
+
+</details>
+
 <details><summary> 6 - [ :o: ] Administração de Repositório; </summary></details>
 <details><summary> 7 - [ :o: ] Melhorando os commits do projeto; </summary></details>
 <details><summary> 8 - [ :o: ] Explorando e entendendo o GitHub; </summary></details>
