@@ -82,7 +82,17 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 
 </details>
 
-<details><summary> 6 - [ :o: ] Administração de Repositório; </summary></details>
+<details><summary> 6 - [ :o: ] Administração de Repositório; </summary> <br/>
+ 
+<p> 6.1 - [ :o: ] Introdução da seção </p>
+<p> 6.2 - [ :o: ] Limpando arquivos untracked </p>
+<p> 6.3 - [ :o: ] Otimizando repositório </p>
+<p> 6.4 - [ :o: ] Verificando Integridade dos arquivos </p>
+<p> 6.5 - [ :o: ] Reflog </p>
+<p> 6.6 - [ :o: ] Comprimindo o repositório </p>
+<p> 6.7 - [ :o: ] Conclusão da Seção </p> 
+ 
+</details>
 <details><summary> 7 - [ :o: ] Melhorando os commits do projeto; </summary></details>
 <details><summary> 8 - [ :o: ] Explorando e entendendo o GitHub; </summary></details>
 <details><summary> 9 - [ :o: ] Markdown: Conceitos Principais </summary></details>
