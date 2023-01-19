@@ -43,7 +43,7 @@ A marcação :o: indica que o tópico ainda não foi iniciado
   
 <details><summary> 3 - [ :o: ] Trabalhando com Branchs; </summary></details>
 <details><summary> 4 - [ :o: ] Compartilhamento e Atualização de Repositórios; </summary></details>
-5 - [ :o: ] Análise e Inspeção de Repositórios;\
+<details><summary> 5 - [ :o: ] Análise e Inspeção de Repositórios; </summary></details>
 6 - [ :o: ] Administração de Repositório;\
 7 - [ :o: ] Melhorando os commits do projeto;\
 8 - [ :o: ] Explorando e entendendo o GitHub;\
