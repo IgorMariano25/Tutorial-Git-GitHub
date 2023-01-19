@@ -13,6 +13,8 @@ A marcação :white_check_mark: indica que o tópico já foi concluído\
 A marcação :hourglass_flowing_sand: indica que o tópico está em andamento\
 A marcação :o: indica que o tópico ainda não foi iniciado
 
+***OBS: Clique no ▶ ou no tópico desejado para visualizar o conteúdo completo***
+
 <details><summary> 1 - [ :white_check_mark: ] Introdução e Instação das dependências do Git;</summary> <br/>
  
 <p> 1.1 - [ :white_check_mark: ] Instalando Git no Windows </p>
