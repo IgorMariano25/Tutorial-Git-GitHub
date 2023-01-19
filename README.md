@@ -69,7 +69,6 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 <p> 4.6 - [ :o: ] Conhecendo os submodules </p>
 <p> 4.7 - [ :o: ] Atualizando os submodules </p>
 <p> 4.8 - [ :o: ] Conclusão da Seção </p> 
- 
 </details>
 
 <details><summary> 5 - [ :o: ] Análise e Inspeção de Repositórios; </summary> <br/>
@@ -79,7 +78,6 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 <p> 5.3 - [ :o: ] Verificando diferenças </p>
 <p> 5.4 - [ :o: ] Log de atividades resumido </p>
 <p> 5.5 - [ :o: ] Conclusão da Seção </p> 
-
 </details>
 
 <details><summary> 6 - [ :o: ] Administração de Repositório; </summary> <br/>
@@ -91,8 +89,14 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 <p> 6.5 - [ :o: ] Reflog </p>
 <p> 6.6 - [ :o: ] Comprimindo o repositório </p>
 <p> 6.7 - [ :o: ] Conclusão da Seção </p> 
- 
 </details>
-<details><summary> 7 - [ :o: ] Melhorando os commits do projeto; </summary></details>
+
+<details><summary> 7 - [ :o: ] Melhorando os commits do projeto; </summary> <br/>
+
+<p> 7.1 - [ :o: ] A importância dos commits </p>
+<p> 7.2 - [ :o: ] Técnica de private branch </p>
+<p> 7.3 - [ :o: ] Melhorando as mensagens de commits </p>
+</details>
+
 <details><summary> 8 - [ :o: ] Explorando e entendendo o GitHub; </summary></details>
 <details><summary> 9 - [ :o: ] Markdown: Conceitos Principais </summary></details>
