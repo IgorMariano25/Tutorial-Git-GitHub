@@ -41,7 +41,22 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 <p> 2.16 [ :white_check_mark:] Resetando um Branch </p>
 </details>
   
-<details><summary> 3 - [ :hourglass_flowing_sand: ] Trabalhando com Branchs; </summary></details>
+<details><summary> 3 - [ :hourglass_flowing_sand: ] Trabalhando com Branchs; </summary> <br/>
+
+<p> 3.1 - [ :white_check_mark:] O que são branches </p>
+<p> 3.2 -  [ :white_check_mark:] Criando e visualizando branches </p>
+<p> 3.3 -  [ :white_check_mark:] Deletando branches </p>
+<p> 3.4 -  [ :white_check_mark:] Mudando de branches </p>
+<p> 3.5 -  [ :white_check_mark:] Unindo branches </p>
+<p> 3.6 -  [ :white_check_mark:] Utilizando a stash </p>
+<p> 3.7 -  [ :o: ] Recuperando a stash </p>
+<p> 3.8 -  [ :o: ] Removendo a stash </p>
+<p> 3.9 -  [ :o: ] Criando tags </p>
+<p> 3.10 -  [ :o: ] Alterando a tag </p>
+<p> 3.11 -  [ :o: ] Enviando tags ao repositório </p>
+<p> 3.12 -  [ :o: ] Conclusão da Seção </p>
+</details>
+
 <details><summary> 4 - [ :o: ] Compartilhamento e Atualização de Repositórios; </summary></details>
 <details><summary> 5 - [ :o: ] Análise e Inspeção de Repositórios; </summary></details>
 <details><summary> 6 - [ :o: ] Administração de Repositório; </summary></details>
