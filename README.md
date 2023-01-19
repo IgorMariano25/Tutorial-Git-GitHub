@@ -40,8 +40,8 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 <p> 2.16 [ :white_check_mark:] Resetando um Branch </p>
 </details>
   
-<details><summary>3 - [ :o: ] Trabalhando com Branchs; </summary></details>
-4 - [ :o: ] Compartilhamento e Atualização de Repositórios;\
+<details><summary> 3 - [ :o: ] Trabalhando com Branchs; </summary></details>
+<details><summary> 4 - [ :o: ] Compartilhamento e Atualização de Repositórios; </summary></details>
 5 - [ :o: ] Análise e Inspeção de Repositórios;\
 6 - [ :o: ] Administração de Repositório;\
 7 - [ :o: ] Melhorando os commits do projeto;\
