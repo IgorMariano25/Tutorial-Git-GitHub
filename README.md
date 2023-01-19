@@ -98,5 +98,21 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 <p> 7.3 - [ :o: ] Melhorando as mensagens de commits </p>
 </details>
 
-<details><summary> 8 - [ :o: ] Explorando e entendendo o GitHub; </summary></details>
+<details><summary> 8 - [ :o: ] Explorando e entendendo o GitHub; </summary> <br/>
+
+<p> 8.1 - [ :o: ] Introdução da seção </p>
+<p> 8.2 - [ :o: ] Criando repositório </p>
+<p> 8.3 - [ :o: ] Verificando código fonte e licenças</p>
+<p> 8.4 - [ :o: ] Criando e verificando issues </p>
+<p> 8.5 - [ :o: ] Atualizando projeto por pull request </p>
+<p> 8.6 - [ :o: ] Processos de CI/CD no GitHub </p>
+<p> 8.7 - [ :o: ] Criando uma wiki no GitHub </p>
+<p> 8.8 - [ :o: ] Visualizando os dados do projeto </p>
+<p> 8.9 - [ :o: ] Configurações do repositório </p>
+<p> 8.10 - [ :o: ] Criando gists </p>
+<p> 8.11 - [ :o: ] Buscando repositórios Interessantes </p>
+<p> 8.12 - [ :o: ] Conclusão da Seção </p> 
+
+</details>
+
 <details><summary> 9 - [ :o: ] Markdown: Conceitos Principais </summary></details>
