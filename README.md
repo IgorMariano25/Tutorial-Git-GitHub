@@ -46,5 +46,5 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 <details><summary> 5 - [ :o: ] Análise e Inspeção de Repositórios; </summary></details>
 <details><summary> 6 - [ :o: ] Administração de Repositório; </summary></details>
 <details><summary> 7 - [ :o: ] Melhorando os commits do projeto; </summary></details>
-8 - [ :o: ] Explorando e entendendo o GitHub;\
+<details><summary> 8 - [ :o: ] Explorando e entendendo o GitHub; </summary></details>
 9 - [ :o: ] Markdown: Conceitos Principais
