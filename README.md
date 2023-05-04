@@ -43,7 +43,7 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 <p> 2.16 [ :white_check_mark:] Resetando um Branch </p>
 </details>
   
-<details><summary> 3 - [ :hourglass_flowing_sand: ] Trabalhando com Branchs; </summary> <br/>
+<details><summary> 3 - [ :white_check_mark: ] Trabalhando com Branchs; </summary> <br/>
 
 <p> 3.1 - [ :white_check_mark:] O que são branches </p>
 <p> 3.2 -  [ :white_check_mark:] Criando e visualizando branches </p>
@@ -51,24 +51,24 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 <p> 3.4 -  [ :white_check_mark:] Mudando de branches </p>
 <p> 3.5 -  [ :white_check_mark:] Unindo branches </p>
 <p> 3.6 -  [ :white_check_mark:] Utilizando a stash </p>
-<p> 3.7 -  [ :o: ] Recuperando a stash </p>
-<p> 3.8 -  [ :o: ] Removendo a stash </p>
-<p> 3.9 -  [ :o: ] Criando tags </p>
-<p> 3.10 -  [ :o: ] Alterando a tag </p>
-<p> 3.11 -  [ :o: ] Enviando tags ao repositório </p>
-<p> 3.12 -  [ :o: ] Conclusão da Seção </p>
+<p> 3.7 -  [ :white_check_mark: ] Recuperando a stash </p>
+<p> 3.8 -  [ :white_check_mark: ] Removendo a stash </p>
+<p> 3.9 -  [ :white_check_mark: ] Criando tags </p>
+<p> 3.10 -  [ :white_check_mark: ] Alterando a tag </p>
+<p> 3.11 -  [ :white_check_mark: ] Enviando tags ao repositório </p>
+<p> 3.12 -  [ :white_check_mark: ] Conclusão da Seção </p>
 </details>
 
-<details><summary> 4 - [ :o: ] Compartilhamento e Atualização de Repositórios; </summary> <br/>
+<details><summary> 4 - [ :white_check_mark: ] Compartilhamento e Atualização de Repositórios; </summary> <br/>
  
-<p> 4.1 - [ :o: ] Introdução da seção </p>
-<p> 4.2 - [ :o: ] Encontrando branches </p> 
-<p> 4.3 - [ :o: ] Recebendo atualizações </p>
-<p> 4.4 - [ :o: ] Enviando alterações </p>
-<p> 4.5 - [ :o: ] Utilizando o remote </p> 
-<p> 4.6 - [ :o: ] Conhecendo os submodules </p>
-<p> 4.7 - [ :o: ] Atualizando os submodules </p>
-<p> 4.8 - [ :o: ] Conclusão da Seção </p> 
+<p> 4.1 - [ :white_check_mark: ] Introdução da seção </p>
+<p> 4.2 - [ :white_check_mark: ] Encontrando branches </p> 
+<p> 4.3 - [ :white_check_mark: ] Recebendo atualizações </p>
+<p> 4.4 - [ :white_check_mark: ] Enviando alterações </p>
+<p> 4.5 - [ :white_check_mark: ] Utilizando o remote </p> 
+<p> 4.6 - [ :white_check_mark: ] Conhecendo os submodules </p>
+<p> 4.7 - [ :white_check_mark: ] Atualizando os submodules </p>
+<p> 4.8 - [ :white_check_mark: ] Conclusão da Seção </p> 
 </details>
 
 <details><summary> 5 - [ :o: ] Análise e Inspeção de Repositórios; </summary> <br/>
