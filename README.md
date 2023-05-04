@@ -51,12 +51,12 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 <p> 3.4 -  [ :white_check_mark:] Mudando de branches </p>
 <p> 3.5 -  [ :white_check_mark:] Unindo branches </p>
 <p> 3.6 -  [ :white_check_mark:] Utilizando a stash </p>
-<p> 3.7 -  [ :o: ] Recuperando a stash </p>
-<p> 3.8 -  [ :o: ] Removendo a stash </p>
-<p> 3.9 -  [ :o: ] Criando tags </p>
-<p> 3.10 -  [ :o: ] Alterando a tag </p>
-<p> 3.11 -  [ :o: ] Enviando tags ao repositório </p>
-<p> 3.12 -  [ :o: ] Conclusão da Seção </p>
+<p> 3.7 -  [ :white_check_mark: ] Recuperando a stash </p>
+<p> 3.8 -  [ :white_check_mark: ] Removendo a stash </p>
+<p> 3.9 -  [ :white_check_mark: ] Criando tags </p>
+<p> 3.10 -  [ :white_check_mark: ] Alterando a tag </p>
+<p> 3.11 -  [ :white_check_mark: ] Enviando tags ao repositório </p>
+<p> 3.12 -  [ :white_check_mark: ] Conclusão da Seção </p>
 </details>
 
 <details><summary> 4 - [ :o: ] Compartilhamento e Atualização de Repositórios; </summary> <br/>
