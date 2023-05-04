@@ -73,7 +73,7 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 
 <details><summary> 5 - [ :hourglass_flowing_sand: ] Análise e Inspeção de Repositórios; </summary> <br/>
  
-<p> 5.1 - [ :o: ] Introdução da seção </p>
+<p> 5.1 - [ :white_check_mark: ] Introdução da seção </p>
 <p> 5.2 - [ :o: ] Exibindo detalhes de branches e tags </p> 
 <p> 5.3 - [ :o: ] Verificando diferenças </p>
 <p> 5.4 - [ :o: ] Log de atividades resumido </p>
