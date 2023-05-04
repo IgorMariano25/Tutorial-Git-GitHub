@@ -71,16 +71,16 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 <p> 4.8 - [ :white_check_mark: ] Conclusão da Seção </p> 
 </details>
 
-<details><summary> 5 - [ :hourglass_flowing_sand: ] Análise e Inspeção de Repositórios; </summary> <br/>
+<details><summary> 5 - [ :white_check_mark:  ] Análise e Inspeção de Repositórios; </summary> <br/>
  
 <p> 5.1 - [ :white_check_mark: ] Introdução da seção </p>
-<p> 5.2 - [ :o: ] Exibindo detalhes de branches e tags </p> 
-<p> 5.3 - [ :o: ] Verificando diferenças </p>
-<p> 5.4 - [ :o: ] Log de atividades resumido </p>
-<p> 5.5 - [ :o: ] Conclusão da Seção </p> 
+<p> 5.2 - [ :white_check_mark: ] Exibindo detalhes de branches e tags </p> 
+<p> 5.3 - [ :white_check_mark: ] Verificando diferenças </p>
+<p> 5.4 - [ :white_check_mark: ] Log de atividades resumido </p>
+<p> 5.5 - [ :white_check_mark: ] Conclusão da Seção </p> 
 </details>
 
-<details><summary> 6 - [ :o: ] Administração de Repositório; </summary> <br/>
+<details><summary> 6 - [ :hourglass_flowing_sand: ] Administração de Repositório; </summary> <br/>
  
 <p> 6.1 - [ :o: ] Introdução da seção </p>
 <p> 6.2 - [ :o: ] Limpando arquivos untracked </p>
