@@ -80,18 +80,18 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 <p> 5.5 - [ :white_check_mark: ] Conclusão da Seção </p> 
 </details>
 
-<details><summary> 6 - [ :hourglass_flowing_sand: ] Administração de Repositório; </summary> <br/>
+<details><summary> 6 - [ :white_check_mark: ] Administração de Repositório; </summary> <br/>
  
-<p> 6.1 - [ :o: ] Introdução da seção </p>
-<p> 6.2 - [ :o: ] Limpando arquivos untracked </p>
-<p> 6.3 - [ :o: ] Otimizando repositório </p>
-<p> 6.4 - [ :o: ] Verificando Integridade dos arquivos </p>
-<p> 6.5 - [ :o: ] Reflog </p>
-<p> 6.6 - [ :o: ] Comprimindo o repositório </p>
-<p> 6.7 - [ :o: ] Conclusão da Seção </p> 
+<p> 6.1 - [ :white_check_mark: ] Introdução da seção </p>
+<p> 6.2 - [ :white_check_mark: ] Limpando arquivos untracked </p>
+<p> 6.3 - [ :white_check_mark: ] Otimizando repositório </p>
+<p> 6.4 - [ :white_check_mark: ] Verificando Integridade dos arquivos </p>
+<p> 6.5 - [ :white_check_mark: ] Reflog </p>
+<p> 6.6 - [ :white_check_mark: ] Comprimindo o repositório </p>
+<p> 6.7 - [ :white_check_mark: ] Conclusão da Seção </p> 
 </details>
 
-<details><summary> 7 - [ :o: ] Melhorando os commits do projeto; </summary> <br/>
+<details><summary> 7 - [ :hourglass_flowing_sand: ] Melhorando os commits do projeto; </summary> <br/>
 
 <p> 7.1 - [ :o: ] A importância dos commits </p>
 <p> 7.2 - [ :o: ] Técnica de private branch </p>
