@@ -91,14 +91,14 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 <p> 6.7 - [ :white_check_mark: ] Conclusão da Seção </p> 
 </details>
 
-<details><summary> 7 - [ :hourglass_flowing_sand: ] Melhorando os commits do projeto; </summary> <br/>
+<details><summary> 7 - [ :white_check_mark: ] Melhorando os commits do projeto; </summary> <br/>
 
-<p> 7.1 - [ :o: ] A importância dos commits </p>
-<p> 7.2 - [ :o: ] Técnica de private branch </p>
-<p> 7.3 - [ :o: ] Melhorando as mensagens de commits </p>
+<p> 7.1 - [ :white_check_mark: ] A importância dos commits </p>
+<p> 7.2 - [ :white_check_mark: ] Técnica de private branch </p>
+<p> 7.3 - [ :white_check_mark: ] Melhorando as mensagens de commits </p>
 </details>
 
-<details><summary> 8 - [ :o: ] Explorando e entendendo o GitHub; </summary> <br/>
+<details><summary> 8 - [ :hourglass_flowing_sand: ] Explorando e entendendo o GitHub; </summary> <br/>
 
 <p> 8.1 - [ :o: ] Introdução da seção </p>
 <p> 8.2 - [ :o: ] Criando repositório </p>
