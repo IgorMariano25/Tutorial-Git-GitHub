@@ -23,7 +23,7 @@ A marcação :o: indica que o tópico ainda não foi iniciado
 <p> 1.4 - [ :white_check_mark: ] O que é GIT ? </p>
 </details>
 
-<details><summary> 2 - [ :white_check_mark:] Git Fundamental;</summary> <br/>
+<details><summary> 2 - [ :white_check_mark: ] Git Fundamental;</summary> <br/>
 
 <p> 2.1 -  [ :white_check_mark:] O que é um repositório ? </p> 
 <p> 2.2 -  [ :white_check_mark:] Criando repositórios </p>
